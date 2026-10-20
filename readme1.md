@@ -1,7 +1,7 @@
 # Hi 👋, Saya Mohd Shahizan
 
 <p align="center">
-  <img src="profile.jpg" alt="Mohd Shahizan" width="150" style="border-radius: 50%;">
+  <img src="profile.jpeg" alt="Mohd Shahizan" width="150" style="border-radius: 50%;">
 </p>
 
 Seorang pembangun perisian / peminat teknologi yang berdedikasi dan sentiasa berminat untuk mempelajari perkara baharu.
